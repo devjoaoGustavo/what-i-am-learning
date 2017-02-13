@@ -6,4 +6,5 @@ What I am learning
 | **When** | **Category** | **What** |
 | -------- |:------------:| --------:|
 | **10/02/2017** | Computer Science | [Lista de coisas para aprender](https://github.com/jwasham/google-interview-university "Google interview university") |
+| **12/02/2017** | Ruby on Rails | [Conhecendo o funcionamento do módulo ApplicationCable::Connection no ActionCable](https://github.com/rails/rails/tree/master/actioncable/lib/action_cable "ActionCable in the Rails repository") |
 
