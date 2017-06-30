@@ -7,4 +7,10 @@ What I am learning
 | -------- |:------------:| --------:|
 | **10/02/2017** | Computer Science | [Lista de coisas para aprender](https://github.com/jwasham/google-interview-university "Google interview university") |
 | **12/02/2017** | Ruby on Rails | [Conhecendo o funcionamento do módulo ApplicationCable::Connection no ActionCable](https://github.com/rails/rails/tree/master/actioncable/lib/action_cable "ActionCable in the Rails repository") |
+| **09/03/2017** | ActionCable | Tech talk na Locaweb sobre [ActionCable](http://slides.com/devjoaogustavo/deck#/) |
+| **23/04/2017** | Programming Language | Começo dos estudos em [Go](https://gobyexample.com) |
+| **04/06/2017** | Programming Language | Curso básico de Clojure na [Alura](https://www.alura.com.br) |
+| **10/06/2017** | Programming Language | Conhecendo Goroutines em [GoLang](https://tour.golang.org/concurrency/1) |
+| **10/06/2017** | Programming Language | Conhecendo Channels em [GoLang](https://tour.golang.org/concurrency/2) |
+| **30/06/2017** | Web | Curso de HTTP na [Alura](https://www.alura.com.br) |
 
