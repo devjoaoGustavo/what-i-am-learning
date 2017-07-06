@@ -16,3 +16,5 @@ What I am learning
 | **02/07/2017** | Programming Language | Um pouco mais sobre [Ruby's Rack](https://github.com/devjoaoGustavo/rack_app) |
 | **02/07/2017** | Programming Language | Engatinhando com [Go templates](https://github.com/devjoaoGustavo/static-site) |
 | **02/07/2017** | Learning while teaching | Início da estruturação do curso de Introdução a Programação pro Projeto de Jovens Santa Edwiges (Mais detalhes num futuro próximo) |
+| **04/07/2017** | Learning while teaching | Último dos seis grupos de estudos Newbie em Ruby na [Locaweb](https://locaweb.com.br) |
+| **06/07/2017** | Programming Language | Plugando [middlewares](https://github.com/devjoaoGustavo/rack_app) em uma aplicação Rack do Ruby |
