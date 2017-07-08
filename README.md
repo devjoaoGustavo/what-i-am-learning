@@ -18,3 +18,5 @@ What I am learning
 | **02/07/2017** | Learning while teaching | Início da estruturação do curso de Introdução a Programação pro Projeto de Jovens Santa Edwiges (Mais detalhes num futuro próximo) |
 | **04/07/2017** | Learning while teaching | Último dos seis grupos de estudos Newbie em Ruby na [Locaweb](https://locaweb.com.br) |
 | **06/07/2017** | Programming Language | Plugando [middlewares](https://github.com/devjoaoGustavo/rack_app) em uma aplicação Rack do Ruby |
+| **07/07/2017** | Learning while teaching | Conheci a linguagem [Portugol](http://lite.acad.univali.br/portugol/) |
+| **08/07/2017** | Learning while teaching | [Post](https://devjoaogustavo.github.io/aprendendo/a/programar/programacao/introducao/computacao/2017/07/08/portugol.html) sobre Portugol |
