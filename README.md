@@ -20,3 +20,4 @@ What I am learning
 | **06/07/2017** | Programming Language | Plugando [middlewares](https://github.com/devjoaoGustavo/rack_app) em uma aplicação Rack do Ruby |
 | **07/07/2017** | Learning while teaching | Conheci a linguagem [Portugol](http://lite.acad.univali.br/portugol/) |
 | **08/07/2017** | Learning while teaching | [Post](https://devjoaogustavo.github.io/aprendendo/a/programar/programacao/introducao/computacao/2017/07/08/portugol.html) sobre Portugol |
+| **08/07/2017** | Programming Language |  Entendi o que é pattern Matching com [Haskell](https://www.casadocodigo.com.br/products/livro-haskell) |
