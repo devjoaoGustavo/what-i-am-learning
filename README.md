@@ -22,4 +22,4 @@ What I am learning
 | **08/07/2017** | Learning while teaching | [Post](https://devjoaogustavo.github.io/aprendendo/a/programar/programacao/introducao/computacao/2017/07/08/portugol.html) sobre Portugol |
 | **08/07/2017** | Programming Language | Entendi o que é _pattern Matching_ com [Haskell](https://www.casadocodigo.com.br/products/livro-haskell) |
 | **11/07/2017** | Programming Language | _Record syntax_, _data_ e _newtype_ no Haskell |
-
+| **17/07/2017** | Programming Language | Funções com [Clojure](https://github.com/devjoaoGustavo/closure-brave/blob/master/clojure-functions.clj) |
